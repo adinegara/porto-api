@@ -4,28 +4,28 @@
     "id": "1",
     "title": "EOC",
     "desc": "English Outing Class",
-    "cover": ["https://drive.google.com/open?id=1yHzU2Oh-C7462_x2c5uw46-Z330F3D6C"],
+    "cover": ["https://drive.google.com/uc?export=download&id=1yHzU2Oh-C7462_x2c5uw46-Z330F3D6C"],
     "tags": ["event", "poster"] 
 },
 {
     "id": "2",
     "title": "EOC 2.0",
     "desc": "English Outing Class",
-    "cover": ["https://drive.google.com/open?id=1GB0Ku1_U6uKWDsdXCiyyLkSV7lwF0tEw"],
+    "cover": ["https://drive.google.com/uc?export=download&id=1GB0Ku1_U6uKWDsdXCiyyLkSV7lwF0tEw"],
     "tags": ["event", "poster"] 
 },
 {
     "id": "3",
     "title": "Jamus",
     "desc": "Pembuatan banner untuk acara outbond muda-mudi di Salaman",
-    "cover": ["https://drive.google.com/open?id=1aqZJub6VvnxXNd8TeQnAAaqG5K-MqRne"],
+    "cover": ["https://drive.google.com/uc?export=download&id=1aqZJub6VvnxXNd8TeQnAAaqG5K-MqRne"],
     "tags": ["event", "banner"] 
 },
   {
     "id": "4",
     "title": "VOCOMFEST 2018",
     "desc": "Event HIMAKOMSI",
-    "cover": ["https://drive.google.com/open?id=164qAt3nJHmZV5tPmxiT8QEWg1klkfkVu"],
+    "cover": ["https://drive.google.com/uc?export=download&id=164qAt3nJHmZV5tPmxiT8QEWg1klkfkVu"],
     "tags": ["event", "banner"] 
 }
     ]
