@@ -4,21 +4,21 @@
     "id": "1",
     "title": "EOC",
     "desc": "English Outing Class",
-    "cover": ["images/eoc.jpg"],
+    "cover": ["https://photos.app.goo.gl/ACKMhJnUQ8XygLzo7"],
     "tags": ["event", "poster"] 
 },
 {
     "id": "2",
     "title": "EOC 2.0",
     "desc": "English Outing Class",
-    "cover": ["images/eoc.jpg"],
+    "cover": ["https://photos.app.goo.gl/ACKMhJnUQ8XygLzo7"],
     "tags": ["event", "poster"] 
 },
 {
     "id": "3",
     "title": "Jamus",
     "desc": "Pembuatan banner untuk acara outbond muda-mudi di Salaman",
-    "cover": ["images/jamus.jpg"],
+    "cover": ["https://photos.app.goo.gl/ACKMhJnUQ8XygLzo7"],
     "tags": ["event", "banner"] 
 }
     ]
