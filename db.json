@@ -4,7 +4,7 @@
     "id": "1",
     "title": "OkeAja",
     "desc": "Sebuah project berbasis web pariwisata yang bisa menampilkan daftar tempat wisata dan menambahkan obyek wisata. Project ini dibuat guna memenuhi tugas akhir mata kuliah Proyek Aplikasi 3",
-    "cover": ["images/gallery/okeaja.jpg"],
+    "cover": ["images/gallery/okeaja.webp"],
     "link": ["https://github.com/adinegara/okeaja"] 
 },
 {
