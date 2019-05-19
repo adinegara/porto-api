@@ -1,32 +1,74 @@
 {
  "data": [
-    {
+{
     "id": "1",
-    "title": "EOC",
-    "desc": "English Outing Class",
-    "cover": ["https://drive.google.com/uc?export=download&id=1yHzU2Oh-C7462_x2c5uw46-Z330F3D6C"],
-    "tags": ["event", "poster"] 
+    "title": "OkeAja",
+    "desc": "Sebuah project berbasis web pariwisata yang bisa menampilkan daftar tempat wisata dan menambahkan obyek wisata. Project ini dibuat guna memenuhi tugas akhir mata kuliah Proyek Aplikasi 3",
+    "cover": ["images/gallery/okeaja.jpg"],
+    "link": ["https://github.com/adinegara/okeaja"] 
 },
 {
     "id": "2",
-    "title": "EOC 2.0",
-    "desc": "English Outing Class",
-    "cover": ["https://drive.google.com/uc?export=download&id=1GB0Ku1_U6uKWDsdXCiyyLkSV7lwF0tEw"],
-    "tags": ["event", "poster"] 
-},
-{
-    "id": "3",
-    "title": "Jamus",
-    "desc": "Pembuatan banner untuk acara outbond muda-mudi di Salaman",
-    "cover": ["images/gallery/thumbs/01.jpg"],
-    "tags": ["event", "banner"] 
+    "title": "Seminar Web",
+    "desc": "Sebuah project berbasis web info seminar yang bisa menampilkan daftar seminar yang akan datang, melihat dokumentasi, bahkan posting seminar dengan izin acc admin. Project ini dibuat guna memenuhi tugas akhir mata kuliah Praktikum Web 2",
+    "cover": ["images/gallery/seminar.png"],
+    "link": ["https://github.com/adinegara/seminar"] 
 },
   {
+    "id": "3",
+    "title": "EOC",
+    "desc": "EOC atau English Outing Class merupakan event tahunan yang diadakan MTI Yogyakarta (sekarang InSide) berupa outbond, camp, dan treasure hunt dalam 1 rangkaian acara yang semuanya diwajibkan menggunakan bahasa Inggris sepanjang acara.",
+    "cover": ["images/gallery/eoc.png"],
+    "link": ["https://photos.app.goo.gl/f7CwHM8khgtWaaJ96"] 
+},
+   {
     "id": "4",
-    "title": "VOCOMFEST 2018",
-    "desc": "Event HIMAKOMSI",
-    "cover": ["https://drive.google.com/uc?export=download&id=164qAt3nJHmZV5tPmxiT8QEWg1klkfkVu"],
-    "tags": ["event", "banner"] 
+    "title": "EOC 2.0",
+    "desc": "EOC atau English Outing Class merupakan event tahunan yang diadakan MTI Yogyakarta (sekarang InSide) berupa outbond, camp, dan treasure hunt dalam 1 rangkaian acara yang semuanya diwajibkan menggunakan bahasa Inggris sepanjang acara. Kali ini diadakan di Dewaruci, Bantul.",
+    "cover": ["images/gallery/eoc 2.0.jpg"],
+    "link": ["https://photos.app.goo.gl/fxNFLkJh6K8tAwX78"] 
+},
+   {
+    "id": "5",
+    "title": "Vocomfest 2018",
+    "desc": "Vocomfest merupakan event tahunan yang diadakan Himakomsi UGM yang terdiri dari Web Design Competition, Mobile Apps Development Competition, dan International Collegiate Programming Contest.",
+    "cover": ["images/gallery/vocom18.jpg"],
+    "link": ["https://photos.app.goo.gl/KYyktoj3D6LUeD6z7"] 
+},
+    {
+    "id": "6",
+    "title": "Vocomfest 2019",
+    "desc": "Vocomfest merupakan event tahunan yang diadakan Himakomsi UGM yang terdiri dari Web Design Competition, Mobile Apps Development Competition, dan International Collegiate Programming Contest. Tahun ini ditambah dengan National Technology Festival.",
+    "cover": ["images/gallery/vocom19.png"],
+    "link": ["https://photos.app.goo.gl/UGdypvi6Jv9WkRUR9"] 
+},
+   {
+    "id": "7",
+    "title": "Jamus",
+    "desc": "Jamus atau singkatan dari Jalan-jalan Muda-mudi Salaman merupakan event tahunan yang diadakan Muda-Mudi masjid Salaman dalam rangka refreshing dan keakraban.",
+    "cover": ["images/gallery/jamus.jpg"],
+    "link": ["https://photos.app.goo.gl/8suudPyiathC6ALm9"] 
+},
+   {
+    "id": "8",
+    "title": "Ponpes Mulyo Abadi",
+    "desc": "Berisi poster-poster kegiatan yang ada di Pondok Pesantren Mulyo Abadi Yogyakarta.",
+    "cover": ["images/gallery/ppmabadi19.png"],
+    "link": ["https://photos.app.goo.gl/Da5YMcG4vFVVMBCS7"] 
+},
+  {
+    "id": "9",
+    "title": "SamiSami Catering",
+    "desc": "Brand usaha baru catering di Jogja yang menyediakan snack dan catering untuk segala macam acara.",
+    "cover": ["images/gallery/samisami.jpg"],
+    "link": ["https://photos.app.goo.gl/AtiAPcavGxxA29wf7"] 
+},
+   {
+    "id": "10",
+    "title": "JDC",
+    "desc": "Berisi poster-poster dan web banner yang diselenggarakan oleh Jogja Digital Clinic",
+    "cover": ["images/gallery/ratakan-ramadhan.jpg"],
+    "link": ["https://photos.app.goo.gl/F2yW8ZKA1S8ybH5B6"] 
 }
     ]
 }
